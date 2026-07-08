@@ -1,0 +1,70 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+
+# Sensitive / Redacted materials
+# These directories may contain placeholder references but
+# actual operational content is never committed
+prompts/operational/
+personas/operational/
+data-cloud/config/
+*.classified
+*.cui
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# PDF build artifacts
+*.aux
+*.out
+*.toc
