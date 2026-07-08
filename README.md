@@ -1,6 +1,6 @@
 # Ask Sage: AI-Enabled Analyst Support Program
 
-**U.S. Army Reserve Training Command | Built on the Ask Sage Platform**
+**U.S. Army Reserve 84 Training Command | Built on the Ask Sage Platform**
 
 ---
 
@@ -29,7 +29,7 @@ The program is built on four interdependent components:
 
 ## Results
 
-### Part 1: Initial Capability Build (2023)
+### Part 1: Initial Capability Build (2025)
 - **47% improvement** in analyst product throughput (volume and time-to-repository)
 - **320+ personnel** trained and onboarded across two Training Commands
 - Army Commendation Medal awarded by Commanding Brigadier General
@@ -83,11 +83,7 @@ ask-sage-program/
 
 ## Author
 
-**LTC James (Trey) Waversak III, MBA**
-AI Integration Lead | U.S. Army Reserve
-
-- [LinkedIn](https://www.linkedin.com/in/james-trey-waversak/)
-- Active TS/SCI Clearance
+**LTC James (Trey) Waversak III **
 
 ## Classification Notice
 
